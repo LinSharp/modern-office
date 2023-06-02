@@ -1,2 +1,2 @@
-# modern-office
+# Modern Office
 Modern office suite.
