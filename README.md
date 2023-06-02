@@ -1,2 +1,2 @@
 # Modern Office
-Modern office suite.
+Office suite for modern needs.
