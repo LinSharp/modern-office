@@ -12,8 +12,10 @@
 
 0.6 | Presentation write/edit
 
-0.7 | Polish UI
+0.7 | PDF Viewer
 
-0.8 | Cleanup/optimize
+0.8 | Polish UI
+
+0.9 | Cleanup/optimize
 
 1.0 | First version
