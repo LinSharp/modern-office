@@ -8,9 +8,9 @@
 
 0.4 | Table/spreadsheet in a Document
 
-0.5 | Presentation write/edit
+0.5 | Printing
 
-0.6 | Printing
+0.6 | Presentation write/edit
 
 0.7 | Polish UI
 
