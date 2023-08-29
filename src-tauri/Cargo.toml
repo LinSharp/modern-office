@@ -1,10 +1,10 @@
 [package]
 name = "modern-office"
 version = "0.0.0"
-description = "A Tauri App"
-authors = ["you"]
-license = ""
-repository = ""
+description = "Office suite for modern needs"
+authors = ["Lin Sharp"]
+license = "AGPL-3.0"
+repository = "https://github.com/LinSharp/modern-office"
 edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
