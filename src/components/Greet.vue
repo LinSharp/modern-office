@@ -1,4 +1,4 @@
-<script setup lang="ts">
+<script setup>
 import { ref } from "vue";
 import { invoke } from "@tauri-apps/api/tauri";
 
